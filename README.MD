@@ -25,7 +25,7 @@ This project's design was inspired by The amazing Dastyar Chrome Extension!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[product-screenshot]: preview/hamyar1.png
+[product-screenshot]: preview/hamyar-1.png
 [typescript]: https://img.shields.io/badge/typescript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
