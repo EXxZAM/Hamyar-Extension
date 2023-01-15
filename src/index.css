@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Peyda";
+    src: url("./assets/fonts/Peyda.woff2");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+
+body {
+    overflow: hidden;
+    overflow-y: auto;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Peyda" !important;
+}
+
+input {
+    font-family: "Peyda" !important;
+}
+
+button {
+    font-family: "Peyda" !important;
+    font-size: 12px !important;
+}
+
+.bgLight a {
+    color: #3d518f !important;
+}
+.bgDark a {
+    color: white !important;
+}
+
+.bgDarkSettings {
+    background-color: rgb(72, 82, 94);
+    color: white !important;
+}
+
+.bgDarkSettings button {
+    color: white !important;
+}
+.bgLightSettings {
+    background-color: #f4f4f4;
+    color: #3d518f !important;
+}
+.bgLightSettings button {
+    color: black;
+}
+
+.hidden {
+    display: none !important;
+}
+.disabled {
+    opacity: 0.5;
+    cursor: default;
+}
